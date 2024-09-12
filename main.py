@@ -10,6 +10,7 @@ for i in range(1000):
     is_address.append(1)
 
 actuall_add = list(zip(address,is_address))
+print(actuall_add)
 
 
 
